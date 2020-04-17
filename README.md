@@ -1,2 +1,2 @@
 # misc-private
-Miscellaneous, temporary, or perhaps experimental things that should remain private.
+Miscellaneous, temporary, or experimental things that should remain private.
