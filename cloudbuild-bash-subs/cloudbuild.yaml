@@ -4,4 +4,4 @@ steps:
   args:
     - -c
     - |-
-      echo "Identifier: $_BUILD_ID_TRUNCATED"
+      echo "Identifier: $_BUILD_ID_TRUNCATED" 
