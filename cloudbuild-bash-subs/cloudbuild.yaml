@@ -11,4 +11,4 @@ steps:
       echo "_BUILD_ID_MANIP_B: $_BUILD_ID_MANIP_B"
       echo "_STRING_LITERAL: $_STRING_LITERAL"
       echo "Original REPO_NAME: $REPO_NAME"
-      echo "_REPO_NAME_TRUNCATED: $_REPO_NAME_NO_FIRST_CHAR"
+      echo "_REPO_NAME_NO_FIRST_CHAR: $_REPO_NAME_NO_FIRST_CHAR"
