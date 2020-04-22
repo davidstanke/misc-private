@@ -5,6 +5,10 @@ steps:
     - -c
     - |-
       echo "Original BRANCH_NAME: $BRANCH_NAME"
-      echo "Manipulated BRANCH_NAME: $_BRANCH_NO_PREFIX"
+      echo "_BRANCH_NO_PREFIX: $_BRANCH_NO_PREFIX"
       echo "Original BUILD_ID: $BUILD_ID"
-      echo "Manipulated BUILD_ID: $_BUILD_ID_MANIP"
+      echo "_BUILD_ID_MANIP: $_BUILD_ID_MANIP"
+      echo "_BUILD_ID_MANIP_B: $_BUILD_ID_MANIP_B"
+      echo "_STRING_LITERAL: $_STRING_LITERAL"
+      echo "Original REPO_NAME: $REPO_NAME"
+      echo "_REPO_NAME_TRUNCATED: $_REPO_NAME_NO_FIRST_CHAR"
