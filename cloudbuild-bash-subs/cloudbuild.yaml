@@ -5,4 +5,5 @@ steps:
     - -c
     - |-
       echo "Original BUILD_ID: $BUILD_ID"
+      
       echo "Manipulated BUILD_ID: $_BUILD_ID_MANIP"
